@@ -1,0 +1,42 @@
+*{
+    font-family: "Poppins", sans-serif;;
+}
+header{
+    background-color: #176B87;
+}
+#Nombre{
+    color: #befdf7c0;
+}
+#Navs{
+    color: #64CCC5;
+}
+#Navs:hover{
+    color: #befdf7c0;
+}
+main{
+    background: rgb(0,28,48);
+    background: linear-gradient(135deg, rgba(0,28,48,1) 26%, rgba(13,75,99,1) 62%, rgba(18,95,121,1) 95%);
+}
+#Degree{
+    color: #DAFFFB;
+}
+#aboutme{
+    color: #176B87
+}
+.card-body{
+    background-color: white;
+}
+footer{
+    background-color: #176B87;
+    color: #befdf7c0;
+}
+#icon-grid{
+    color: #befdf7c0;
+}
+#SkillsTitles{
+    color: #DAFFFB;
+}
+#linkedin{
+    color: #DAFFFB;
+    font-size: 2em;
+}
