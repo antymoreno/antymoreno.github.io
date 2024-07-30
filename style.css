@@ -37,6 +37,13 @@ footer{
     color: #DAFFFB;
 }
 #linkedin{
-    color: #DAFFFB;
+    color: #64CCC5;
     font-size: 2em;
+}
+#linkedin:hover{
+    color: #befdf7c0;
+}
+#icons{
+    color: #DAFFFB;
+    font-size: 1.75em;
 }
