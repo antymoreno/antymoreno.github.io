@@ -47,3 +47,10 @@ footer{
     color: #DAFFFB;
     font-size: 1.75em;
 }
+#boton{
+    background-color: #64CCC5;
+    color: #176B87;
+}
+#boton:hover{
+    background-color: #DAFFFB
+}
